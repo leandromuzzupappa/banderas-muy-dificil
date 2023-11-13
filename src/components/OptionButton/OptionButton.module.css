@@ -1,0 +1,11 @@
+.optionButton {
+    background: #9381ff;
+    border: none;
+    border-radius: .4rem;
+    color: #edddd4;
+    font-weight: 700;
+    gap: 1rem;
+    padding-block: 1rem;
+    text-transform: uppercase;
+    width: 100%;
+}

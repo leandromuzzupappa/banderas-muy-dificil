@@ -1,0 +1,23 @@
+.flagImage {
+    border-radius: 1rem;
+    width: 100%;
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: block;
+    font-style: italic;
+    height: auto;
+    max-width: 100%;
+    shape-margin: .75rem;
+    width: 100%;
+
+}
+
+.flagName {
+    background: #124559;
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+    padding: 1rem;
+    position: relative;
+    z-index: -1;
+}
